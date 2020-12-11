@@ -70,6 +70,4 @@ for index in range(len(CNP_compiled)-1):
 mean_CNPD = np.mean(CNPD_compiled)
 std_dev_CNPD = np.std(CNPD_compiled)  
 
-
-#extract Ns, and mobility.
     
